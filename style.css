@@ -1,16 +1,5 @@
 
-body {
-   min-height: 100vh;
-
-   
-}
-
-
-
-
-
-
-.place img {
+.image_container img {
         width: 200px; /* Adjust as needed */
         height: auto; /* Automatically adjust height to maintain aspect ratio */
     }
