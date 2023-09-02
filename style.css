@@ -1,6 +1,17 @@
-<style>
-   .place img {
+
+body {
+   min-height: 100vh;
+
+   
+}
+
+
+
+
+
+
+.place img {
         width: 200px; /* Adjust as needed */
         height: auto; /* Automatically adjust height to maintain aspect ratio */
     }
-</style>
+
